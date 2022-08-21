@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(225,5,4);
+}
+
+p {
+  font-family: Lato;
+  text-align: right;
+
+}
+
+table {
+  table-layout:fixed;
+  background-color: rgb(221, 221, 221);
+  width: 100%;
+  text-align: left;
+  padding: 14px;
+  
+}
+tr:hover {background-color: rgb(148, 148, 148);}
+tr:nth-child(even) {background-color: #f2f2f2;}
